@@ -1,5 +1,7 @@
 # spacer-roman
 
+This app use NASA API to fetch image and display it
+
 ## Project setup
 ```
 yarn install
