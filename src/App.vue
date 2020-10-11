@@ -105,8 +105,6 @@ body {
   position: absolute;
   top: 30px;
 }
-
-
 .loader {
   margin-top: 100px;
   display: inline-block;
